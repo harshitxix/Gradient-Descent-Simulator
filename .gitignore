@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Assignment files (keep local only)
+assignment*.py
+class assignment*.py
+backpropagation*.py
+forward propogation.py
+gradient descent.py
+
+# OS
+.DS_Store
+Thumbs.db
